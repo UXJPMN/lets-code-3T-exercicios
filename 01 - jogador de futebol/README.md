@@ -1,3 +1,8 @@
+<!--
+arquivo original:
+https://docs.google.com/document/d/1L31TwnI-GE16wuMo-81K2ttmbAPfDHdraFScKRu-juU/view
+-->
+
 **1)** Crie a classe Jogador descrita no “diagrama” abaixo:
 
 <p align="center">
