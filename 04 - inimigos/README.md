@@ -7,27 +7,27 @@ Você deve implementar um sistema básico que representa um jogo com 4 tipos de 
 ### Regras de Implementação
 
 #### Genérico
-**Ataque:** deve imprimir *"causou 10 de dano"*
-**Apanhar:** deve imprimir *"recebeu [dano recebido] de dano"*
-**Interagir:** deve imprimir *"Por que eu responderia meu inimigo???"*
+**Ataque:** deve imprimir *"causou 10 de dano"* <br />
+**Apanhar:** deve imprimir *"recebeu [dano recebido] de dano"* <br />
+**Interagir:** deve imprimir *"Por que eu responderia meu inimigo???"* <br />
 <hr />
 
 #### Vampiro
-**Ataque:** deve imprimir *"causou 20 de dano"* e depois *"seu personagem está sangrando"*
-**Apanhar:** deve imprimir *"recebeu [dano recebido] de dano"*, se o tipo de dano recebido for *"perfurante"* o dano recebido é dobrado.
-**Interagir:** deve imprimir *"O que é um homem?"*
+**Ataque:** deve imprimir *"causou 20 de dano"* e depois *"seu personagem está sangrando"* <br />
+**Apanhar:** deve imprimir *"recebeu [dano recebido] de dano"*, se o tipo de dano recebido for *"perfurante"* o dano recebido é dobrado. <br /> 
+**Interagir:** deve imprimir *"O que é um homem?"* <br />
 <hr />
 
 #### Cobra
-**Ataque:** deve imprimir *"causou 10 de dano"* e depois *"seu personagem está envenenado"*
-**Apanhar:** deve imprimir *"recebeu [dano recebido] de dano"*, se o tipo de dano recebido for *"pancada"* o dano recebido é dobrado.
-**Interagir:** deve imprimir *"Se você acender a chama a maldição acaba."*
+**Ataque:** deve imprimir *"causou 10 de dano"* e depois *"seu personagem está envenenado"* <br />
+**Apanhar:** deve imprimir *"recebeu [dano recebido] de dano"*, se o tipo de dano recebido for *"pancada"* o dano recebido é dobrado. <br />
+**Interagir:** deve imprimir *"Se você acender a chama a maldição acaba."* <br />
 <hr />
 
 #### Gigante
-**Ataque:** deve imprimir *"causou 25 de dano"* e depois *"seu personagem está atordoado"*
-**Apanhar:** deve imprimir *"recebeu [dano recebido] de dano"*, se o tipo de dano recebido for *"fogo"* o dano recebido é dobrado.
-**Interagir:** deve imprimir *"Me desculpe"*
+**Ataque:** deve imprimir *"causou 25 de dano"* e depois *"seu personagem está atordoado"* <br />
+**Apanhar:** deve imprimir *"recebeu [dano recebido] de dano"*, se o tipo de dano recebido for *"fogo"* o dano recebido é dobrado. <br />
+**Interagir:** deve imprimir *"Me desculpe"* <br />
 
 
 ## Dicas finais
